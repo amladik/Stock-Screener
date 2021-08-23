@@ -7,3 +7,8 @@ This project is a stock screener developed in Python. It takes data webscraped f
 My algorithim determines the rating of a stock by analyzing EBIT, ROIC, Price to Sales Ratio, Price to Book Ratio, and Market Cap. The fundamental goal of this project was to use stock data to find undervalued stocks from well-performing companies.
 
 This ReadMe will contain weekly updates of how well each portfolio performs in comparison to the Vanguard Total Index Fund.
+
+
+Week 0:
+
+Top Picks: $500,000          Bottom Picks: $500,000
